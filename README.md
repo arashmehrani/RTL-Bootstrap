@@ -1,2 +1,2 @@
-# Persian-Bootstrap
-RTL bootstrap version 3.3.7
+# Persian Bootstrap
+RTL bootstrap base on version 3.3.7
