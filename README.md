@@ -1,5 +1,5 @@
-# RTL Bootstrap for Persian / Arabic
+# RTL Bootstrap for Persian / Arabic language
 
-RTL bootstrap base on version 3.3.7
+RTL Bootstrap version: 3.3.7
 
-// Aded new RTL for version 4.1.3
+new: Aded RTL Bootstrap version: 4.1.3
